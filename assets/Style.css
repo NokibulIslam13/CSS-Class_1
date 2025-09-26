@@ -11,6 +11,10 @@ i{
     display: block;
     text-align: right;
 }
+i span {
+    color: red;
+    font-weight: bold;
+}
 p {
    font-size: 20px;
    line-height: 150%;
